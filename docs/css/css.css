@@ -1,0 +1,26 @@
+.miPerfil {
+	width: 100%;
+	height: 50px;
+}
+
+/*.about-main {
+	width: 100%;
+	height: 95%;
+}*/
+
+.about-inset {
+	width: 175px;
+	height: 175px;
+}
+
+/*.responsive {
+	width: 100%;
+	height: auto;
+}
+*/
+
+.typer,
+.banner-text h2,
+.banner-text p {
+	color: white !important;
+}
