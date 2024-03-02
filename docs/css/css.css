@@ -24,3 +24,18 @@
 .banner-text p {
 	color: white !important;
 }
+
+#owl-demo .item-img,
+#owl-demo .item-img img {
+	height: 500px;
+}
+
+/*.team-box,
+.team-box .sf-team {
+	height: 750px;
+}*/
+
+/*.team-box .row div {
+	height: 350px;
+}
+*/
